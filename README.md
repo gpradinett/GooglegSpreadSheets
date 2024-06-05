@@ -23,7 +23,7 @@ Antes de poder ejecutar el script, necesitas tener lo siguiente:
 1. **Clonar el repositorio:**
 
     ```sh
-    git clone https://github.com/tuusuario/actualizador-google-sheets.git
+    git clone git@github.com:gpradinett/GooglegSpreadSheets.git
     cd actualizador-google-sheets
     ```
 
